@@ -99,3 +99,13 @@ class Contenedor {
     }
   }
 }
+
+new Contenedor('products.txt').save({nombre: 'pelota', precio: 320, thumbnail: 'ejemplo url'})
+
+new Contenedor('products.txt').getById(8)
+
+new Contenedor('products.txt').getAll()
+
+new Contenedor('products.txt').deleteById(6)
+
+new Contenedor('products.txt').deleteAll()

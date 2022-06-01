@@ -1,0 +1,2 @@
+
+[{"nombre":"pelota","precio":320,"thumbnail":"ejemplo url","id":10},{"nombre":"pelota","precio":320,"thumbnail":"ejemplo url","id":11}]
